@@ -18,7 +18,7 @@ intoworld callsytem for cdc.go.kr
 - /etc/asterisk/extensions_override_freepbx.conf
 
 3. 서비스 재실행
-- # service asterisk restart
+- `# service asterisk restart`
 
 
 May 1 email
